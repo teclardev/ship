@@ -42,7 +42,7 @@
     "react-hook-form": "7.52.1",
     "schemas": "workspace:*",
     "socket.io-client": "4.7.5",
-    "zod": "3.21.4"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@storybook/addon-controls": "8.2.0",
